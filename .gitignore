@@ -3,6 +3,10 @@
 # Windows
 Thumbs.db
 
+# ZODB
+Data.fs
+Data.fs.*
+
 # C extensions
 *.so
 
