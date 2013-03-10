@@ -1,0 +1,27 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="14">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1137" startPos="0" endPos="0" selMode="0" lang="Normal Text" encoding="-1" filename="C:\_env\wikitutorial\CHANGES.txt" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="3698" startPos="0" endPos="0" selMode="0" lang="Normal Text" encoding="-1" filename="C:\_env\wikitutorial\MANIFEST.in" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="3698" startPos="611" endPos="611" selMode="0" lang="MS INI file" encoding="-1" filename="C:\_env\wikitutorial\development.ini" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="3698" startPos="0" endPos="0" selMode="0" lang="MS INI file" encoding="-1" filename="C:\_env\wikitutorial\production.ini" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="3698" startPos="0" endPos="0" selMode="0" lang="Normal Text" encoding="-1" filename="C:\_env\wikitutorial\setup.cfg" />
+            <File firstVisibleLine="5" xOffset="0" scrollWidth="3698" startPos="1018" endPos="1018" selMode="0" lang="Python" encoding="-1" filename="C:\_env\wikitutorial\setup.py" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="48113" startPos="0" endPos="0" selMode="0" lang="Python" encoding="-1" filename="C:\_env\wikitutorial\wikitutorial\__init__.py" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="48113" startPos="0" endPos="0" selMode="0" lang="Python" encoding="-1" filename="C:\_env\wikitutorial\wikitutorial\models.py" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="48113" startPos="0" endPos="0" selMode="0" lang="CSS" encoding="-1" filename="C:\_env\wikitutorial\wikitutorial\static\ie6.css" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="48113" startPos="0" endPos="0" selMode="0" lang="CSS" encoding="-1" filename="C:\_env\wikitutorial\wikitutorial\static\pylons.css" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="48113" startPos="0" endPos="0" selMode="0" lang="Normal Text" encoding="-1" filename="C:\_env\wikitutorial\wikitutorial\templates\mytemplate.pt" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="48113" startPos="0" endPos="0" selMode="0" lang="Normal Text" encoding="-1" filename="C:\_env\wikitutorial\wikitutorial\templates\view.pt" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="48113" startPos="0" endPos="0" selMode="0" lang="Python" encoding="-1" filename="C:\_env\wikitutorial\wikitutorial\tests.py" />
+            <File firstVisibleLine="30" xOffset="0" scrollWidth="1137" startPos="511" endPos="518" selMode="0" lang="Python" encoding="-1" filename="C:\_env\wikitutorial\wikitutorial\views.py" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1137" startPos="0" endPos="0" selMode="0" lang="Normal Text" encoding="-1" filename="C:\_env\wikitutorial\wikitutorial\templates\base.pt" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1137" startPos="0" endPos="0" selMode="0" lang="Normal Text" encoding="-1" filename="C:\_env\wikitutorial\wikitutorial\templates\edit.pt" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="3698" startPos="35" endPos="35" selMode="0" lang="Normal Text" encoding="-1" filename="C:\_env\wikitutorial\.gitignore" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="3698" startPos="13" endPos="13" selMode="0" lang="Normal Text" encoding="-1" filename="C:\_env\wikitutorial\Hello_world.txt" />
+            <File firstVisibleLine="106" xOffset="0" scrollWidth="48113" startPos="7141" endPos="7141" selMode="0" lang="Normal Text" encoding="-1" filename="C:\_dev\Winter\git_wikitutorial.txt" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="48113" startPos="0" endPos="0" selMode="0" lang="Normal Text" encoding="-1" filename="C:\_env\wikitutorial\request.txt" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
