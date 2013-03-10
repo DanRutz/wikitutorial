@@ -1,5 +1,8 @@
 *.py[cod]
 
+# Windows
+Thumbs.db
+
 # C extensions
 *.so
 
