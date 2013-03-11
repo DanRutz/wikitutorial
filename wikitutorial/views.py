@@ -46,6 +46,7 @@ def edit_page(context, request):
     # f.close()
     if 'form.submitted' in request.params and request.method == "POST":
         context.data = request.params['body']
+        context.datb = request.params['bodz']
         return HTTPFound(location = request.resource_url(context))
 
     return dict(page=context,
@@ -57,13 +58,14 @@ def add_page(context, request):
     pagename = request.subpath[0]
     if 'form.submitted' in request.params and request.method == "POST":
         body = request.params['body']
-        page = Page(body)
+        bodz = request.params['bodz']
+        page = Page(body, bodz)
         page.__name__ = pagename
         page.__parent__ = context
         context[pagename] = page
         return HTTPFound(location = request.resource_url(page))
     save_url = request.resource_url(context, 'add_page', pagename)
-    page = Page('')
+    page = Page('', '')
     page.__name__ = pagename
     page.__parent__ = context
     return dict(page=page, save_url=save_url)

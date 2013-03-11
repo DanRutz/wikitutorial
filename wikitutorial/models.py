@@ -3,8 +3,9 @@ from persistent import Persistent
 
 
 class Page(Persistent):
-    def __init__(self, data):
+    def __init__(self, data, datb):
         self.data = data
+        self.datb = datb
 
 
 class Wiki(PersistentMapping):
