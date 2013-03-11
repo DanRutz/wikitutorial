@@ -30,8 +30,9 @@ def view_page(context, request):
     content = publish_parts(
         context.data, writer_name='html')['html_body']
     content = wikiwords.sub(check, content)
+    bodz = context.datb
     edit_url = request.resource_url(context, 'edit_page')
-    return dict(page=context, content=content, edit_url=edit_url)
+    return dict(page=context, content=content, bodz=bodz, edit_url=edit_url)
 
 @view_config(name='edit_page', context='.models.Page',
              renderer='templates/edit.pt')
