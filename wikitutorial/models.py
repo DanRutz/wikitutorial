@@ -24,7 +24,7 @@ class Wiki(PersistentMapping):
 def appmaker(zodb_root):
     if not 'app_root' in zodb_root:
         app_root = Wiki()
-        frontpage = Page('This is the front page')
+        frontpage = Page('This is the front page','')
         app_root['FrontPage'] = frontpage
         frontpage.__name__ = 'FrontPage'
         frontpage.__parent__ = app_root
